@@ -1,3 +1,6 @@
+This is a fork of https://github.com/lbilli/Jib.jl which is the version to use with Julia 1.5 and higher.
+This fork is only a Julia 1.4 compatible version of the original.
+
 # Jib
 
 **A Julia implementation of Interactive Brokers API**
@@ -17,7 +20,7 @@ over TCP.
 ### Installation
 To install from GitHub:
 ```julia
-] add https://github.com/lbilli/Jib.jl
+] add https://github.com/GHTaarn/Jib.jl
 ```
 
 ### Usage
